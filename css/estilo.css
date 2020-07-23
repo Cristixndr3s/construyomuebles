@@ -84,7 +84,8 @@ span {
 }
 
 .masthead .masthead-content h1{
-  font-size:2.5rem
+  padding-top: 4rem;
+  font-size:2.5rem;
 }
 
 .masthead .masthead-content p{
@@ -144,6 +145,7 @@ color: #161100;;
 @media (min-width:768px){
 
 .masthead{
+
   height:100%;
   min-height:0;
   width:40.5rem;
